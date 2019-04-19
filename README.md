@@ -8,3 +8,8 @@
 https://gamedev.stackexchange.com/questions/152230/unity-post-processing-effect-conflicts-with-ui-image-blur-shader/152375#152375
 
 https://forum.unity.com/threads/simple-optimized-blur-shader.185327/#post-3038561
+
+
+Support me on patreon
+
+patreon.com/Smkgames
