@@ -12,4 +12,4 @@ https://forum.unity.com/threads/simple-optimized-blur-shader.185327/#post-303856
 
 Support me on patreon
 
-patreon.com/Smkgames
+[Patreon](patreon.com/Smkgames)
